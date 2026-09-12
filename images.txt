@@ -17,6 +17,6 @@ mongo
 #docker.n8n.io/n8nio/n8n:latest
 docker.elastic.co/elasticsearch/elasticsearch:7.6.1
 apache/rocketmq:4.9.4
-xuxueli/xxl-job-admin
+xuxueli/xxl-job-admin:3.4.2
 
 
